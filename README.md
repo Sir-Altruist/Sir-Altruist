@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sir-Altruist
 - 👀 Interested in solving emerging problems with my programming knowledge
-- 🌱 Currently learning Nodejs frameworks for backend programming, serverless, amazon web services, CI/CD and other devOps tools
-- 💞️ Looking to collaborate on projects that will enhance my skills
+- 🌱 A full-stack developer with proficiency in Frontend language and frameworks/libraries (Javascript, ReactJS, AngularJS, Redux,  Material UI, Styled-components, etc) and Nodejs framework for backend programming, serverless, amazon web services, CI/CD and other devOps tools
+- 💞️ Looking to collaborate on projects that will enhance my skills and growth
 - 📫 How to reach me +2348180907820
 
 <!---
