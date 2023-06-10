@@ -4,7 +4,7 @@
 - <img align="left" alt="Javascript" width="20px" src="https://img.icons8.com/external-vectorslab-flat-vectorslab/53/external-Web-Coding-web-and-marketing-vectorslab-flat-vectorslab.png" /> I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies and tools. In 2023, I started learning **DevOps** and **Cloud Computing** in order to automate processes and flows. I am really passionate about solving emerging problems with my software skills and knowledge.
 
 - 💞️ Outside the world of tech, I love engaging in sporting activites (majorly football) and am also a gamer.
-- <img align="left" alt="Javascript" width="20px" src="https://img.icons8.com/external-vectorslab-flat-vectorslab/53/external-Web-Coding-web-and-marketing-vectorslab-flat-vectorslab.png" /> Reach out to me [here](mailto:devaltrsuit@gmail.com)
+- <img align="left" alt="Javascript" width="20px" src="https://img.icons8.com/external-vectorslab-flat-vectorslab/53/external-Web-Coding-web-and-marketing-vectorslab-flat-vectorslab.png" /> Reach out to me [here](mailto:devaltrsuit@gmail.com)<br /><br /><br />
 
 
 **Technology Stack**
@@ -22,7 +22,7 @@
 [<img align="left" alt="mongoose" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />](https://mongoosejs.com/)
 [<img align="left" alt="auth0" width="30px" src="https://avatars.githubusercontent.com/u/2824157?s=40&v=4" />](https://auth0.com/)
 [<img align="left" alt="serverless" width="30px" src="https://avatars.githubusercontent.com/u/13742415?s=40&v=4" />](https://www.serverless.com/)
-[<img align="left" alt="redis" width="30px" src="https://avatars.githubusercontent.com/u/1529926?s=40&v=4" />](https://redis.io/) <br />
+[<img align="left" alt="redis" width="30px" src="https://avatars.githubusercontent.com/u/1529926?s=40&v=4" />](https://redis.io/) <br /><br />
 
 
 
