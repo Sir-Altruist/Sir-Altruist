@@ -4,7 +4,7 @@
 <!-- - ![icons8-web-coding-53](https://github.com/Sir-Altruist/Sir-Altruist/assets/68037747/a466f701-3f18-4073-893d-f4b1c56a88b3) -->
 - <img align="left" alt="Javascript" width="20px" src="https://img.icons8.com/external-vectorslab-flat-vectorslab/53/external-Web-Coding-web-and-marketing-vectorslab-flat-vectorslab.png" />I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies and tools. In 2023, I started learning **DevOps** and **Cloud Computing** in order to automate processes and flows. I am really passionate in solving emerging problems with my software skills and knowledge. 
 
-- 💞️ Outside the world of tech, I love engaging in sporting activites (majorly football <img align="left" alt="Javascript" width="20px" src="https://img.icons8.com/fluency/48/football2.png" />) and am also a gamer <img align="left" alt="Javascript" width="20px" src="[https://img.icons8.com/fluency/48/football2.png](https://img.icons8.com/fluency/48/xbox-controller--v1.png)" />.
+- 💞️ Outside the world of tech, I love engaging in sporting activites (majorly football [<img align="left" alt="Javascript" width="20px" src="https://img.icons8.com/fluency/48/football2.png"/>]) and am also a gamer [<img align="left" alt="Javascript" width="20px" src="[https://img.icons8.com/fluency/48/football2.png](https://img.icons8.com/fluency/48/xbox-controller--v1.png)" />]
 
 **Technology Stack**
 [<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
