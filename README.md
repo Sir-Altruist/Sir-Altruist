@@ -24,10 +24,10 @@
 [<img align="left" alt="serverless" width="30px" src="https://avatars.githubusercontent.com/u/13742415?s=40&v=4" />](https://www.serverless.com/)
 [<img align="left" alt="redis" width="30px" src="https://avatars.githubusercontent.com/u/1529926?s=40&v=4" />](https://redis.io/)
 
+
 **Tools**
 [<img align="left" alt="postman" width="30px" src="https://avatars.githubusercontent.com/u/10251060?s=40&v=4" />](https://www.postman.com/)
 [<img align="left" alt="notion" width="30px" src="https://avatars.githubusercontent.com/u/4792552?s=40&v=4" />](https://www.notion.com/)
-[<img align="left" alt="jira" width="30px" src="https://avatars.githubusercontent.com/u/43281909?s=40&v=4" />](https://jira.atlassian.com/)
 [<img align="left" alt="jira" width="30px" src="https://avatars.githubusercontent.com/u/43281909?s=40&v=4" />](https://jira.atlassian.com/)
 [<img align="left" alt="swagger" width="30px" src="https://avatars.githubusercontent.com/u/7658037?s=40&v=4" />](https://swagger.io/)
 
