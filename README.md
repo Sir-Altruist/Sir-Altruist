@@ -4,7 +4,7 @@
 - <img align="left" alt="Javascript" width="20px" src="https://img.icons8.com/external-vectorslab-flat-vectorslab/53/external-Web-Coding-web-and-marketing-vectorslab-flat-vectorslab.png" /> I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies and tools. In 2023, I started learning **DevOps** and **Cloud Computing** in order to automate processes and flows. I am really passionate about solving emerging problems with my software skills and knowledge.
 
 - 💞️ Outside the world of tech, I love engaging in sporting activites (majorly football) and am also a gamer.
-- <img align="left" alt="Javascript" width="20px" src="https://img.icons8.com/external-vectorslab-flat-vectorslab/53/external-Web-Coding-web-and-marketing-vectorslab-flat-vectorslab.png" /> Reach out to me [here](mailto:devaltrsuit@gmail.com)<br /><br /><br />
+- <img align="left" alt="Javascript" width="20px" src="https://img.icons8.com/external-vectorslab-flat-vectorslab/53/external-Web-Coding-web-and-marketing-vectorslab-flat-vectorslab.png" /> Reach out to me [here](mailto:devaltrsuit@gmail.com)<br /><br />
 
 
 **Technology Stack**
@@ -25,11 +25,7 @@
 [<img align="left" alt="redis" width="30px" src="https://avatars.githubusercontent.com/u/1529926?s=40&v=4" />](https://redis.io/) <br /><br />
 
 
-
-
-
 **Tools**
-
 
 [<img align="left" alt="postman" width="30px" src="https://avatars.githubusercontent.com/u/10251060?s=40&v=4" />](https://www.postman.com/)
 [<img align="left" alt="notion" width="30px" src="https://avatars.githubusercontent.com/u/4792552?s=40&v=4" />](https://www.notion.com/)
