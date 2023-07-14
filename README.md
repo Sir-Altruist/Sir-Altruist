@@ -10,6 +10,7 @@
 **Technology Stack**
 
 [<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/))
 [<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 [<img align="left" alt="css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 [<img align="left" alt="react" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://react.dev/)
@@ -31,4 +32,5 @@
 [<img align="left" alt="notion" width="30px" src="https://avatars.githubusercontent.com/u/4792552?s=40&v=4" />](https://www.notion.com/)
 [<img align="left" alt="jira" width="30px" src="https://avatars.githubusercontent.com/u/43281909?s=40&v=4" />](https://jira.atlassian.com/)
 [<img align="left" alt="swagger" width="30px" src="https://avatars.githubusercontent.com/u/7658037?s=40&v=4" />](https://swagger.io/)
+[<img align="left" alt="doppler" width="30px" src="https://avatars.githubusercontent.com/u/16692?s=40&v=4" />](https://www.doppler.com/)
 
