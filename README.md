@@ -24,7 +24,7 @@
 [<img align="left" alt="auth0" width="30px" src="https://avatars.githubusercontent.com/u/2824157?s=40&v=4" />](https://auth0.com/)
 [<img align="left" alt="serverless" width="30px" src="https://avatars.githubusercontent.com/u/13742415?s=40&v=4" />](https://www.serverless.com/)
 [<img align="left" alt="redis" width="30px" src="https://avatars.githubusercontent.com/u/1529926?s=40&v=4" />](https://redis.io/) 
-[<img align="left" alt="astro" width="30px" src="https://avatars.githubusercontent.com/u/44914786?s=40&v=4" />](https://astro.build/)<br />
+[<img align="left" alt="astro" width="30px" src="https://avatars.githubusercontent.com/u/44914786?s=40&v=4" />](https://astro.build/)
 [<img align="left" alt="sanity" width="30px" src="https://avatars.githubusercontent.com/u/17177659?s=40&v=4" />](https://www.sanity.io/) 
 [<img align="left" alt="rabbitmq" width="30px" src="https://avatars.githubusercontent.com/u/96669?s=40&v=4" />](https://www.rabbitmq.com/) 
 <br /><br />
