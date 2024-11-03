@@ -26,7 +26,6 @@
 [<img align="left" alt="redis" width="30px" src="https://avatars.githubusercontent.com/u/1529926?s=40&v=4" />](https://redis.io/) 
 [<img align="left" alt="astro" width="30px" src="https://avatars.githubusercontent.com/u/44914786?s=40&v=4" />](https://astro.build/) 
 [<img align="left" alt="sanity" width="30px" src="https://avatars.githubusercontent.com/u/17177659?s=40&v=4" />](https://www.sanity.io/) 
-[<img align="left" alt="sanity" width="30px" src="https://avatars.githubusercontent.com/u/17177659?s=40&v=4" />](https://www.sanity.io/) 
 [<img align="left" alt="rabbitmq" width="30px" src="https://avatars.githubusercontent.com/u/96669?s=40&v=4" />](https://www.rabbitmq.com/) 
 <br /><br />
 
